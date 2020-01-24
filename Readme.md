@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Пилипюк](https://up.htmlacademy.ru/javascript/19/user/941895).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Столпнер] (https://htmlacademy.ru/profile/stolpnera).
 
 ---
 
